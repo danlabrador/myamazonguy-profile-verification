@@ -1,4 +1,4 @@
-# Email Deliverability and LinkedIn Verification Script
+# LinkedIn Verification Script
 
 This Python script is developed for partially verifying the association of LinkedIn account owners with email addresses. The script processes a CSV file containing email addresses and LinkedIn profile information and performs specific checks to validate name-email correlation.
 
